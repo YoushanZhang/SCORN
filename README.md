@@ -41,3 +41,9 @@ Run SCORN.m
 2. Open  Jupyter Notebook (Jupyter Notebook 6.4.5version or later should be fine)
 
 Run Multi-output regression model.ipynb
+
+
+## Figures
+<img src="Results.png" width="100%"> 
+<p align="center">Comparision results </p>
+
