@@ -1,6 +1,6 @@
 # SCORN
 
-This directory contains the code for paper [SCORN: Sinter Composition Optimization with Regressive Convolutional Neural Network](https://www.mdpi.com/2673-6497/3/3/29/pdf), which is accepted by MDPI Solids.
+This directory contains the code for paper [SCORN: Sinter Composition Optimization with Regressive Convolutional Neural Network](https://www.mdpi.com/2673-6497/3/3/29/htm), which is accepted by MDPI Solids.
 
 
 If you have any questions, please email to yz945@cornell.edu
