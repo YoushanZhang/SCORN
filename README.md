@@ -36,12 +36,15 @@ To run the code
 
 1. Open Matlab (Matlab2017a version or later should be fine)
 
-Run SCORN.m
+    Run SCORN.m
 
 2. Open  Jupyter Notebook (Jupyter Notebook 6.4.5version or later should be fine)
 
-Run Multi-output regression model.ipynb
+    Run Multi-output regression model.ipynb
 
+3. We also provide the Pytroch and Tensorflow version of our SCORN model. 
+   
+   You can run SCORN_Pytorch.ipynb and SCORN_Tensorflow.ipynb. Due to different deep learning platforms, results from Pytroch and Tensorflow are slightly lower than that of the Matlab version.
 
 ## Figures
 <img src="Results.png" width="100%"> 
